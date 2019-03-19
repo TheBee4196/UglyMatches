@@ -29,10 +29,10 @@ li a:hover {
 
 
 body {
-  background-color: gainsboro;
-  background-blend-mode: hard-light;
   font-size: 10pt;
+  background-image: url(rose.jpg);
 }
+
 a {
   color: lightsteelblue;
   font-weight: 700;
@@ -67,8 +67,8 @@ h1 {
   }
 
 .carousel {
-  width: 640px;
-  height: 360px;
+  width: 600px;
+  height: 400px;
   position: center;
   margin: 0 auto;
 }
@@ -76,4 +76,3 @@ h1 {
 p {
   text-align: center;
 }
-
