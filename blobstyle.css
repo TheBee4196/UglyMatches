@@ -30,7 +30,10 @@ li a:hover {
 
 body {
   font-size: 10pt;
-  background-image: url(rose.jpg);
+  background-image: url(Hearts.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 a {
@@ -52,7 +55,7 @@ h1 {
     display: table-cell;
     vertical-align: middle;
     font-size: 30pt;
-    color: lightsteelblue;
+    color: PaleVioletRed;
     font-weight: 800;
     text-align: center;
     text-transform: uppercase;
